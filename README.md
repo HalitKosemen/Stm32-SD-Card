@@ -16,7 +16,9 @@ Using this function, you can write sensor data, variable values, or memory addre
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/7fd6ce0a-7f5a-40de-80b8-449d11bbb99e" />
 <br>
-If you insert the SD card into your computer and examine the Data.bin file...
+If you insert the SD card into your computer and examine the Data.bin file you can easily read all the data...
+<img width="1929" height="1056" alt="image" src="https://github.com/user-attachments/assets/d0751ef7-bd69-4ab3-8ea7-8ac20144c59a" />
+
 
 
 
