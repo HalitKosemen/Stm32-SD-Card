@@ -1,7 +1,12 @@
 🧠 Overview<br>This repository contains a lightweight SD card file system layer for STM32 microcontrollers based on FatFs.<br><br>The goal of this project is to provide simple, explicit and controllable SD card operations suitable for bare-metal and real-time embedded systems.<br>All functions are written with deterministic behavior, explicit buffer handling, and low-level control in mind.
 
 All function prototypes<br>
+
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3303995a-3b13-4ec6-87bf-4c48bbf4d8cd" />
+
+How To İmplement 
+First you need to install MIDWARE file and copy to your project. and then import MIDWARE folder to project path 
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/4f2f577f-583d-4ab8-ba77-971814c2079a" />
 
 
 
