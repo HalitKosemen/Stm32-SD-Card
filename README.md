@@ -8,6 +8,10 @@ How To İmplement
 First you need to install MIDWARE file and copy to your project. and then import MIDWARE folder to project path 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/4f2f577f-583d-4ab8-ba77-971814c2079a" />
 
+<br>
+FRESULT SD_CardOnlyWriteData(const char *filename, const uint32_t *values, uint32_t count);
+Using this function, you can write sensor data, variable values, or memory address values directly to an SD card as a raw .bin file, and later inspect or verify the data by reading the file with HxD.
+
 
 
 ## 🌐 Socials:
