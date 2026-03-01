@@ -1,7 +1,7 @@
 🧠 Overview<br>This repository contains a lightweight SD card file system layer for STM32 microcontrollers based on FatFs.<br><br>The goal of this project is to provide simple, explicit and controllable SD card operations suitable for bare-metal and real-time embedded systems.<br>All functions are written with deterministic behavior, explicit buffer handling, and low-level control in mind.
 
-All function prototypes
-<img width="1108" height="398" alt="image" src="https://github.com/user-attachments/assets/3303995a-3b13-4ec6-87bf-4c48bbf4d8cd" />
+All function prototypes<br>
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3303995a-3b13-4ec6-87bf-4c48bbf4d8cd" />
 
 
 
