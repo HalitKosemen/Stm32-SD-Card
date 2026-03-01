@@ -12,6 +12,9 @@ First you need to install MIDWARE file and copy to your project. and then import
 <img width="1016" height="48" alt="image" src="https://github.com/user-attachments/assets/96112bec-33e6-49b8-91ba-005fad61dc18" />
 Using this function, you can write sensor data, variable values, or memory address values directly to an SD card as a raw .bin file, and later inspect or verify the data by reading the file with HxD.
 
+<img width="945" height="441" alt="image" src="https://github.com/user-attachments/assets/04501da8-5ba4-427d-9cdf-dd2d3da88bab" />
+
+
 
 
 ## 🌐 Socials:
